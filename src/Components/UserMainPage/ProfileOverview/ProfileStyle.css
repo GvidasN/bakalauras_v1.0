@@ -1,0 +1,24 @@
+.profileTitle {
+    text-align: left;
+    margin-left: 2em;   
+}
+
+.profileTitle:after{
+    content: none;
+}
+
+.profileBlock {
+    border-radius: 3px;
+    border-right: 1px solid #ccc;
+}
+
+.personalDetails {
+    text-align: left;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.personalDetailsLearnMore {
+    margin-top: 5px;
+    text-align: right;
+}

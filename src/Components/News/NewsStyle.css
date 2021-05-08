@@ -1,0 +1,26 @@
+.card {
+    width: 20em;
+    display: inline-block;
+    vertical-align: top;
+    margin: 5px 10px;    
+}
+
+.date {
+    font-size: 14;
+}
+
+.pos {
+    margin-bottom: 12px;
+}
+
+.newsTitle {
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.cardLarge {
+    width: 30em;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px 5px;    
+}
